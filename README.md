@@ -1,1 +1,1 @@
-# Additive-and-dominance-GWAS
+# Additive and dominance GWAS
