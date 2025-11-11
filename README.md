@@ -1,5 +1,5 @@
 # additive and dominance GWAS
-This repository includes scripts for joint association testing for additive and dominance genetic effects. To check the calculablity, the simulated genotype and quantitative phenotype data are also provided. This association tests are used in [Dominance genetic architecture of complex traits in the Japanese population.](link).
+This repository includes scripts for joint association testing for additive and dominance genetic effects. To demonstrate the calculation, the simulated genotype and quantitative phenotype data are also provided. This association tests are used in [Dominance genetic architecture of complex traits in the Japanese population.](link).
 
 ## Steps
 1. Generation of genotypes
