@@ -3,8 +3,8 @@ This repository includes scripts for performing joint association analyses that 
 
 ## Steps
 1. Generation of genotypes\
-The genotype simulation is based on a Gaussian-copula haplotype model which generates haplotype from correlated latent normal variables whose covariance matrix defines the LD structure (AR(1) correlation is used here). Two independent haplotypes are combined per individual to form diploid genotypes. The resulting additive and domiancne genotypes are standardized and mutually uncorrelated.
+The genotype simulation is based on a Gaussian-copula haplotype model which generates haplotype from correlated latent normal variables whose covariance matrix defines LD structure (AR(1) correlation is used here). Two independent haplotypes are combined per individual to form diploid genotypes. The resulting additive and domiancne genotypes are standardized and mutually uncorrelated.
 2. Generation of phenotypes assuming varying degree of inbreeding\
-   
+   The additive and dominance effects are normally distributed with mean 0 and b/m
 3. Association test\
    
